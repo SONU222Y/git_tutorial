@@ -1,4 +1,4 @@
 # git_tutorial
 Author -Amit Garje
 <br>
-hii AMit
+hii AMit Garje
